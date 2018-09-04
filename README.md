@@ -15,30 +15,30 @@ Required Libraries and Dependencies
 
 Links to Download
 
-Windows  - https://www.python.org/downloads/windows/
-Linux  - https://www.python.org/downloads/mac-osx/
-Others - https://www.python.org/download/other/
+* Windows  - https://www.python.org/downloads/windows/
+* Linux  - https://www.python.org/downloads/mac-osx/
+* Others - https://www.python.org/download/other/
 
 
 
 How to Run Project
 ------------------
 
-1 -  Getting the project
+1.  Getting the project
    
 	- Download the project zip file to your computer  
 	OR
 	- Clone this repository to your computer
 		
 		
-2 - Open the terminal user interface for your operating system.
+2. Open the terminal user interface for your operating system.
 
-3 -	Navigate to the project directory and type in the following command:
+3. Navigate to the project directory and type in the following command:
 
-	>>>python entertainment_center.py
+	```python entertainment_center.py```
 
-4 - The default browser of your computer should launch a new tab displaying the "Movie Trailer Website".
+4. The default browser of your computer should launch a new tab displaying the "Movie Trailer Website".
 
 Miscellaneous
 -------------
-This document is based on a template suggested by PhilipCoach in this Udacity forum post.
+This document is based on a template suggested by PhilipCoach in this Udacity forum [post](https://discussions.udacity.com/t/readme-files-in-project-1/23524).
