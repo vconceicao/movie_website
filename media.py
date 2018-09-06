@@ -2,7 +2,7 @@ import webbrowser
 
 
 class Movie:
-    """The Movie that is exibited at the site"""
+    """The Movie that is exhibited at the site"""
 
     def __init__(
             self,
