@@ -1,10 +1,16 @@
 import webbrowser
 
-class Movie:
-     """The Movie that is exibited at the site"""
 
-    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
-         """Inits Movie with title, storyline, poster image and trailer video."""
+class Movie:
+    """The Movie that is exibited at the site"""
+
+    def __init__(
+            self,
+            movie_title,
+            movie_storyline,
+            poster_image,
+            trailer_youtube):
+        """Inits Movie with title, storyline, poster image and trailer video."""
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
