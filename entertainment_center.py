@@ -20,13 +20,13 @@ avatar = media.Movie(
 inception = media.Movie(
     "Inception",
     "A movie about dream stealers",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIJhOc_s0d3e-8RfCAyDEw6H6BWL5e0v0giL7P8tusShbYInyH",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIJhOc_s0d3e-8RfCAyDEw6H6BWL5e0v0giL7P8tusShbYInyH",  # noqa
     "https://www.youtube.com/watch?v=8hP9D6kZseM")
 
 readyplayerone = media.Movie(
     "Ready Player One",
     "A movie about VR",
-    "https://cdn.traileraddict.com/content/warner-bros-pictures/ready-player-one-poster-6.jpg",
+    "https://cdn.traileraddict.com/content/warner-bros-pictures/ready-player-one-poster-6.jpg",  # noqa
     "https://www.youtube.com/watch?v=LiK2fhOY0nE")
 
 thedarkknight = media.Movie(
@@ -38,7 +38,7 @@ thedarkknight = media.Movie(
 madmax = media.Movie(
     "Mad Max: Fury Road",
     "A guy trying to find plains of silence",
-    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXl8Xr_djMWV7FvnYuiPUf1Dq3J9tYSARuBaKro0bejnZ93C1n",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXl8Xr_djMWV7FvnYuiPUf1Dq3J9tYSARuBaKro0bejnZ93C1n",  # noqa
     "https://www.youtube.com/watch?v=hEJnMQG9ev8")
 
 # A list of the your favourite movies
